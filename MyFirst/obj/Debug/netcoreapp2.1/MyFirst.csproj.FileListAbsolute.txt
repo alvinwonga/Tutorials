@@ -1,0 +1,13 @@
+C:\Tutorials\MyFirst\MyFirst\bin\Debug\netcoreapp2.1\MyFirst.deps.json
+C:\Tutorials\MyFirst\MyFirst\bin\Debug\netcoreapp2.1\MyFirst.runtimeconfig.json
+C:\Tutorials\MyFirst\MyFirst\bin\Debug\netcoreapp2.1\MyFirst.runtimeconfig.dev.json
+C:\Tutorials\MyFirst\MyFirst\bin\Debug\netcoreapp2.1\MyFirst.dll
+C:\Tutorials\MyFirst\MyFirst\bin\Debug\netcoreapp2.1\MyFirst.pdb
+C:\Tutorials\MyFirst\MyFirst\obj\Debug\netcoreapp2.1\MyFirst.csproj.CoreCompileInputs.cache
+C:\Tutorials\MyFirst\MyFirst\obj\Debug\netcoreapp2.1\MyFirst.RazorAssemblyInfo.cache
+C:\Tutorials\MyFirst\MyFirst\obj\Debug\netcoreapp2.1\MyFirst.RazorAssemblyInfo.cs
+C:\Tutorials\MyFirst\MyFirst\obj\Debug\netcoreapp2.1\MyFirst.AssemblyInfoInputs.cache
+C:\Tutorials\MyFirst\MyFirst\obj\Debug\netcoreapp2.1\MyFirst.AssemblyInfo.cs
+C:\Tutorials\MyFirst\MyFirst\obj\Debug\netcoreapp2.1\MyFirst.RazorTargetAssemblyInfo.cache
+C:\Tutorials\MyFirst\MyFirst\obj\Debug\netcoreapp2.1\MyFirst.dll
+C:\Tutorials\MyFirst\MyFirst\obj\Debug\netcoreapp2.1\MyFirst.pdb
